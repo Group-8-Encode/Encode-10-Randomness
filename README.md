@@ -58,6 +58,7 @@ https://github.com/randao/randao
 ### References
 https://coinsbench.com/how-to-create-a-lottery-smart-contract-with-solidity-4515ff6f849a
 # Homework
+* Create Github Issues with your questions about this lesson
 * Read the references
 * Complete test scenarios for Lottery.sol
 * (Optional) Try to implement some contract features
